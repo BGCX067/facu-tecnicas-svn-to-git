@@ -1,0 +1,12 @@
+C:\Tecnica de Programacion\tecnicas\tecnicas\bin\Release\tecnicas.exe
+C:\Tecnica de Programacion\tecnicas\tecnicas\bin\Release\tecnicas.pdb
+C:\Tecnica de Programacion\tecnicas\tecnicas\bin\Release\tecnicas.xml
+C:\Tecnica de Programacion\tecnicas\tecnicas\bin\Release\MySql.Data.dll
+C:\Tecnica de Programacion\tecnicas\tecnicas\obj\Release\ResolveAssemblyReference.cache
+C:\Tecnica de Programacion\tecnicas\tecnicas\obj\Release\tecnicas.ABM_PlanCuentas.resources
+C:\Tecnica de Programacion\tecnicas\tecnicas\obj\Release\tecnicas.Frm_MenuPrincipal.resources
+C:\Tecnica de Programacion\tecnicas\tecnicas\obj\Release\tecnicas.Resources.resources
+C:\Tecnica de Programacion\tecnicas\tecnicas\obj\Release\tecnicas.vbproj.GenerateResource.Cache
+C:\Tecnica de Programacion\tecnicas\tecnicas\obj\Release\tecnicas.exe
+C:\Tecnica de Programacion\tecnicas\tecnicas\obj\Release\tecnicas.xml
+C:\Tecnica de Programacion\tecnicas\tecnicas\obj\Release\tecnicas.pdb

@@ -1,0 +1,26 @@
+C:\Tecnica de Programacion\tecnicas\tecnicas\bin\Debug\tecnicas.exe
+C:\Tecnica de Programacion\tecnicas\tecnicas\bin\Debug\tecnicas.pdb
+C:\Tecnica de Programacion\tecnicas\tecnicas\bin\Debug\tecnicas.xml
+C:\Tecnica de Programacion\tecnicas\tecnicas\obj\Debug\ResolveAssemblyReference.cache
+C:\Tecnica de Programacion\tecnicas\tecnicas\obj\Debug\tecnicas.Frm_MenuPrincipal.resources
+C:\Tecnica de Programacion\tecnicas\tecnicas\obj\Debug\tecnicas.Resources.resources
+C:\Tecnica de Programacion\tecnicas\tecnicas\obj\Debug\tecnicas.vbproj.GenerateResource.Cache
+C:\Tecnica de Programacion\tecnicas\tecnicas\obj\Debug\tecnicas.exe
+C:\Tecnica de Programacion\tecnicas\tecnicas\obj\Debug\tecnicas.xml
+C:\Tecnica de Programacion\tecnicas\tecnicas\obj\Debug\tecnicas.pdb
+C:\Tecnica de Programacion\tecnicas\tecnicas\obj\Debug\tecnicas.ABM_PlanCuentas.resources
+C:\Tecnica de Programacion\tecnicas\tecnicas\bin\Debug\MySql.Data.dll
+C:\Tecnica de Programacion\tecnicas\tecnicas\obj\Debug\tecnicas.ABM_Usuarios.resources
+C:\Documents and Settings\Leandro\Escritorio\Facu\Cuatrimestre 4\Tecnica de Programacion\tecnicas\obj\Debug\tecnicas.exe
+C:\Documents and Settings\Leandro\Escritorio\Facu\Cuatrimestre 4\Tecnica de Programacion\tecnicas\obj\Debug\tecnicas.xml
+C:\Documents and Settings\Leandro\Escritorio\Facu\Cuatrimestre 4\Tecnica de Programacion\tecnicas\obj\Debug\tecnicas.pdb
+C:\Documents and Settings\Leandro\Escritorio\Facu\Cuatrimestre 4\Tecnica de Programacion\tecnicas\bin\Debug\tecnicas.exe
+C:\Documents and Settings\Leandro\Escritorio\Facu\Cuatrimestre 4\Tecnica de Programacion\tecnicas\bin\Debug\tecnicas.pdb
+C:\Documents and Settings\Leandro\Escritorio\Facu\Cuatrimestre 4\Tecnica de Programacion\tecnicas\bin\Debug\tecnicas.xml
+C:\Documents and Settings\Leandro\Escritorio\Facu\Cuatrimestre 4\Tecnica de Programacion\tecnicas\bin\Debug\MySql.Data.dll
+C:\Documents and Settings\Leandro\Escritorio\Facu\Cuatrimestre 4\Tecnica de Programacion\tecnicas\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Leandro\Escritorio\Facu\Cuatrimestre 4\Tecnica de Programacion\tecnicas\obj\Debug\tecnicas.ABM_PlanCuentas.resources
+C:\Documents and Settings\Leandro\Escritorio\Facu\Cuatrimestre 4\Tecnica de Programacion\tecnicas\obj\Debug\tecnicas.ABM_Usuarios.resources
+C:\Documents and Settings\Leandro\Escritorio\Facu\Cuatrimestre 4\Tecnica de Programacion\tecnicas\obj\Debug\tecnicas.Frm_MenuPrincipal.resources
+C:\Documents and Settings\Leandro\Escritorio\Facu\Cuatrimestre 4\Tecnica de Programacion\tecnicas\obj\Debug\tecnicas.Resources.resources
+C:\Documents and Settings\Leandro\Escritorio\Facu\Cuatrimestre 4\Tecnica de Programacion\tecnicas\obj\Debug\tecnicas.vbproj.GenerateResource.Cache
